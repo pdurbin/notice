@@ -1,3 +1,3 @@
-FROM rocker/tidyverse:3.5.0
+FROM rocker/tidyverse:4.2.2
 ADD . /
 RUN ./run.sh

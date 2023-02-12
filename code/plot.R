@@ -35,4 +35,4 @@ ggplot(renewal, aes(x = Events)) +
 	  )
 
 ggsave(path = "results", filename = "figure.png", width = 7, height = 3)
-ggsave(path = "results", filename = "figure.svg", width = 7, height = 3)
+#ggsave(path = "results", filename = "figure.svg", width = 7, height = 3)
